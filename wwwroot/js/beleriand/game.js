@@ -1,6 +1,6 @@
 //game.js
 
-var game = new Phaser.Game(580, 460, Phaser.AUTO, null, 'gameDiv');
+var game = new Phaser.Game(580, 460, Phaser.CANVAS, null, 'gameDiv');
 
 //add each game state
 
